@@ -1,7 +1,10 @@
 {
-  "name": "mongodb-download",
+  "name": "@cantremember/mongodb-down-load",
   "version": "2.2.6",
   "description": "download mongodb prebuilt packages from mongodb",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "built/mongodb-download.js",
   "bin": "built/mongodb-download-cli.js",
   "types": "built/mongodb-download.d.ts",
