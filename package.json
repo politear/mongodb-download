@@ -1,6 +1,6 @@
 {
   "name": "@cantremember/mongodb-down-load",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "download mongodb prebuilt packages from mongodb",
   "publishConfig": {
     "access": "public"
